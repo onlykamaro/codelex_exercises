@@ -1,5 +1,5 @@
 <?php
-$apiKey = '0801179219a09417a858bf88e6f25057';
+$apiKey = '{API KEY}';
 
 $city = 'Riga';
 
