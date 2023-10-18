@@ -5,7 +5,7 @@ declare(strict_types=1);
 class Company
 {
     private string $name;
-    private string $registrationNumber;
+    private int $registrationNumber;
     private string $address;
 
     public function __construct(
